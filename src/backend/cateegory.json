@@ -1,0 +1,25 @@
+{
+    "category": [
+      {
+        "id": 0,
+        "title": "FEMALE JACKET",
+        "img": "https://www.casasbahia-imagens.com.br/moda/roupas-femininas/casacos-e-jaquetas/13716872/1257826264/jaqueta-feminina-windbreak-branded-rosa-new-era-1501846948.jpg"  
+      },
+      {
+        "id": 1,
+        "title": "RUNNING-SHOES",
+        "img": "https://i.supersales.co.uk/p/trainers-for-women-lace-up-running-shoes-comfy-tennis-shoes-lightweight-walking-shoes-fashin-mesh-sneaker-ladies-fitness-workout-jogging-shoes-white-u.jpg?imgid=u8xeRPSBO1CqGvismxRO_bkiTgz8HAoVuIOotf3dlPo/rs:fit:1280:1280:1/aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNDFzNHpSZ0VKbkwuX1NMNTAwXy5qcGc.jpg"
+      },
+      {
+        "id": 2,
+        "title": "BLACK SHIRT",
+        "img": "https://www.guller.com.br/184-medium_default/camisas-masculina-manga-comprida-alta-qualidade-social-solida.jpg"
+      },
+      {
+        "id": 3,
+        "title": "FEMALE SHORTS",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_729539-MLB43497878706_092020-W.jpg"
+      }
+    ]
+  }
+  
